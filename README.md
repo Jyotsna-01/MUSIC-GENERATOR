@@ -18,7 +18,7 @@ pip install numpy tensorflow pretty_midi
 ## How to Run the Project
 1. **Clone the Repository:**
    ```sh
-   git clone https://github.com/your-repo-name/music-generation.git
+   git clone https://github.com/Jyotsna-01/MUSIC-GENERATOR.git
    cd music-generation
    ```
 2. **Prepare the MIDI File:**
